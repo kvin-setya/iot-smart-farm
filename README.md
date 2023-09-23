@@ -1,4 +1,4 @@
- Smart Farm for Oyster Mushroom Cultivation
+# Smart Farm for Oyster Mushroom Cultivation
 
 ## PREFACE
 One of the prisons in Bandung called Sukamiskin Prison. They are cultivating oyster mushrooms as an activity for prisoner so that they can be more productive. And we as electrical engineering students were also invited to build an automation system for oyster mushroom cultivation. You can see documentation photos while we were building this tool in the documentation section
