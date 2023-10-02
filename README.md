@@ -21,6 +21,8 @@ Thanks for community who has shared these powerful libraries
 
 ## Image
 ![wiring diagram](core/IoT_Smart_Farm-Wiring_Diagram.png) 
+![screenshot](core/blynkDashboard.png)
+![screenshot](core/blynkTemplate.png)
 
 ## Thanks To
   1. The Arduino Community and the internet
