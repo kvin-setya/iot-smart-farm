@@ -20,7 +20,7 @@ here's the component we need to build this project:
 Thanks for community who has shared these powerful libraries
 
 ## Image
-![wiring diagram](core/IoT Smart Farm - Wiring Diagram.png) 
+![wiring diagram](core/IoT_Smart_Farm-Wiring_Diagram.png) 
 
 ## Thanks To
   1. The Arduino Community and the internet
